@@ -3,7 +3,6 @@
     <option name="defaultProjectDirectory" value="$USER_HOME$/Documents/Projects" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
-    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
